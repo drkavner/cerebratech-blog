@@ -1,6 +1,7 @@
-# How Neurorights Can Protect Your Brain Data
-
-Status: On Deck
+---
+title: How Neurorights Can Protect Your Brain Data
+date: "2023-07-15T23:46:37.121Z"
+---
 
 # How Neurorights Can Protect Your Brain Data
 
