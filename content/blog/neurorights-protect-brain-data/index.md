@@ -23,8 +23,3 @@ And then comes the question of enforcement – how do we police these rights? Br
 In essence, we cannot bargain with our right to privacy and cognitive liberty. Like the shift we embraced in adapting to the digital world and altering our educational methods, we must acclimatize ourselves to the changing contours of neuroscience and technology. Our future could very well hinge on our ability to preserve the integrity of our minds in this digital era.
 
 Neurorights epitomize the brave new world of personal domain protection amidst the onslaught of digital advancements. While the task may seem Herculean, the urgency to face it cannot be overstated - for our cognitive freedom and for the generations yet to inherit this world. It is my hope that we can utilize neurorights as a compass on this journey into the uncharted future, enabling us to traverse this new era with our heads held high and our minds securely ensconced.
-
-
-![Alt Text](https://via.placeholder.com/200x50 "Image Title")
-
-    ![Alt Text](https://via.placeholder.com/200x50 "Image Title")
