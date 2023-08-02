@@ -6,7 +6,7 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 const BlogIndex = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title || `Cerebratech Blog`
+  const siteTitle = `Cerebratech Blog`
   const posts = data.allMarkdownRemark.nodes
 
   if (posts.length === 0) {
