@@ -12,9 +12,9 @@ module.exports = {
     title: `Cerebratech Blog`,
     author: {
       name: `Amanda Kavner, PhD.`,
-      summary: `computational cognitive neuroscientist, AI Engineer, yogi, and futurist`,
+      summary: `cognitive neuroscientist, AI Engineer, yogi, and futurist`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A blog all about cognitive science, AI, and mind-body connection`,
     siteUrl: `https://cerebratech.blog`,
     social: {
       twitter: `DrKavner`,
