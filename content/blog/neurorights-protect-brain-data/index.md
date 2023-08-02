@@ -1,6 +1,7 @@
 ---
-title: How Neurorights Can Protect Your Brain Data
+title: "How Neurorights Can Protect Your Brain Data"
 date: "2023-07-15T23:46:37.121Z"
+description: "How Neurorights Can Protect Your Brain Data"
 ---
 
 # How Neurorights Can Protect Your Brain Data
