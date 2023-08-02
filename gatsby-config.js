@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Cerebratech Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Amanda Kavner, PhD.`,
+      summary: `computational cognitive neuroscientist, AI Engineer, yogi, and futurist`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://cerebratech.blog`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `DrKavner`,
     },
   },
   plugins: [
