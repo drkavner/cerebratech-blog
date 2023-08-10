@@ -1,6 +1,6 @@
 ---
 title: "Guardians of Truth: Navigating the Digital Labyrinth with AI and Blockchain"
-date: "2023-08-4T23:46:37.121Z"
+date: "2023-08-04T23:46:37.121Z"
 ---
 
 # Deciphering the Digital Mirage: Navigating the Quagmire of Fake News and Its Dark Undertows
