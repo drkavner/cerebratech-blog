@@ -1,4 +1,5 @@
 import React from "react"
+import https://github.com/gatsbyjs/gatsby-starter-wordpress-homepage from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
